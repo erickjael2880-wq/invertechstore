@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InverTechStore - Catálogo de Electrónicos</title>
+    
+    <link rel="stylesheet" href="invertech.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <i class="fa-solid fa-microchip"></i> InverTechStore
+        </div>
+
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="Buscar productos...">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </div>
+
+        <button class="cart-icon" id="cartBtn" aria-label="Abrir carrito">
+            <i class="fa-solid fa-cart-shopping"></i>
+            <span id="cartCount">0</span>
+        </button>
+    </header>
+
+    <nav class="categories">
+        <button class="cat-btn active" data-category="todos">Todos</button>
+        <button class="cat-btn" data-category="celulares">Celulares</button>
+        <button class="cat-btn" data-category="laptops">Laptops</button>
+        <button class="cat-btn" data-category="accesorios">Accesorios</button>
+        <button class="cat-btn" data-category="auriculares">Auriculares</button>
+        <button class="cat-btn" data-category="protectores">Protectores</button>
+        <button class="cat-btn" data-category="camaras">Cámaras</button>
+        <button class="cat-btn" data-category="tablets">Tablets</button>
+        <button class="cat-btn" data-category="covers">Covers</button>
+        <button class="cat-btn" data-category="cargadores">Cargadores</button>
+        <button class="cat-btn" data-category="cables">Cables</button>
+        <button class="cat-btn" data-category="teclados">Teclados</button>
+        <button class="cat-btn" data-category="bocinas">Bocinas</button>
+        <button class="cat-btn" data-category="impresoras">Impresoras</button>
+        <button class="cat-btn" data-category="proyectores">Proyectores</button>
+        <button class="cat-btn" data-category="tv">TV</button>
+        <button class="cat-btn" data-category="selfie">Selfie</button>
+        <button class="cat-btn" data-category="abanicos">Abanicos</button>
+        <button class="cat-btn" data-category="aires">Aires</button>
+        <button class="cat-btn" data-category="microondas">Microondas</button>
+    </nav>
+
+    <main>
+        <h1 class="section-title">Nuestros productos</h1>
+        <div class="product-grid" id="productGrid"></div>
+    </main>
+
+    <div class="modal" id="detailsModal" role="dialog" aria-modal="true" aria-labelledby="detailName">
+        <div class="modal-content details-content">
+            <button class="close-btn" id="closeDetails" aria-label="Cerrar detalles">&times;</button>
+            <img id="detailImage" src="" alt="">
+            <div class="details-info">
+                <span id="detailCategory" class="detail-category"></span>
+                <h2 id="detailName"></h2>
+                <p id="detailDescription"></p>
+                <h3 id="detailPrice" class="product-price"></h3>
+                <h4>Características</h4>
+                <ul id="detailFeatures"></ul>
+                <button id="detailAddBtn" class="btn-add">
+                    <i class="fa-solid fa-cart-plus"></i> 
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="cartModal" role="dialog" aria-modal="true" aria-labelledby="cartTitle">
+        <div class="modal-content cart-content">
+            <div class="cart-header">
+                <h2 id="cartTitle"><i class="fa-solid fa-cart-shopping"></i> Carrito</h2>
+                <button class="close-btn" id="closeCart" aria-label="Cerrar carrito">&times;</button>
+            </div>
+            <div class="cart-items" id="cartItems"></div>
+            <div class="cart-footer">
+                <p>Total: <strong id="cartTotal">$0.00</strong></p>
+                <button id="sendWhatsappBtn" class="btn-whatsapp">
+                    <i class="fa-brands fa-whatsapp"></i> Enviar pedido por WhatsApp
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="confirmModal" role="dialog" aria-modal="true" aria-labelledby="confirmTitle">
+        <div class="modal-content confirm-content" style="max-width: 400px; text-align: center;">
+            <img id="confirmImg" src="" alt="" style="width: 120px; height: 120px; object-fit: contain; background: #f5f5f5; border-radius: 8px; margin-bottom: 15px;">
+            <h3 id="confirmTitle" style="margin-bottom: 20px; font-size: 1.1rem;"></h3>
+            <div style="display: flex; gap: 10px;">
+                <button id="btnNo" type="button" style="flex: 1; padding: 10px; background: #e0e0e0; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;">Cancelar</button>
+                <button id="btnYes" type="button" style="flex: 1; padding: 10px; background: #00adb5; color: white; border: none; border-radius: 6px; font-weight: bold; cursor: pointer;">Sí, agregar</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="invertech.js"></script>
+</body>
+</html>
