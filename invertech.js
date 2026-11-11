@@ -104,6 +104,12 @@ const productos = [
         descripcion: "Ratón óptico inalámbrico silencioso de diseño cómodo.",
         caracteristicas: ["Conexión 2.4GHz y Bluetooth", "DPI ajustable", "Clics silenciosos"]
     },
+    {
+        id: 114, nombre: "Llaveros brainrot", categoria: "accesorios", precio: 100,
+        imagen: "https://m.media-amazon.com/images/I/71CTkA7rjoL._AC_SL1500_.jpg",
+        descripcion: "Con los llaveros Evadollina Brainrot, añades un toque de humor a tu día a día.",
+        caracteristicas: ["Llamativo y divertido", "Versátiles", "Resistentes y ligeros"]
+    },
 
     // --- AURICULARES ---
     {
