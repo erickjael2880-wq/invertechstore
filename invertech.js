@@ -337,6 +337,12 @@ const productos = [
         descripcion: "Soporte para cargar teléfono, reloj inteligente y audífonos al mismo tiempo.",
         caracteristicas: ["Diseño plegable", "Carga inalámbrica simultánea", "Organizador de escritorio"]
     },
+    {
+        id: 117, nombre: "Estación de Carga 3 en 1", categoria: "cargadores", precio: 1500,
+        imagen: "https://m.media-amazon.com/images/I/61QVX3GteVL.jpg",
+        descripcion: "Soporte para cargar teléfono, reloj inteligente y audífonos al mismo tiempo.",
+        caracteristicas: ["Organiza y carga tres dispositivos a la vez.", "Almohadilla de carga inalámbrica de carga rápida.", "Alimentado por cable tipo C, incluido.","Cargos tanto en posición vertical como horizontal."]
+    },
 
     // --- CABLES ---
     {
