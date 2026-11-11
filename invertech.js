@@ -81,7 +81,7 @@ const productos = [
         id:124 , nombre: " Oukitel C61", categoria: "celulares", precio: ,
         imagen: "https://www.depotiendard.com/wp-content/uploads/1-374.jpg",
         descripcion: "Es un teléfono inteligente económico de gama de entrada presentado con Android 15",
-        caracteristicas: ["x"],
+        caracteristicas: [""],
         ram: "4GB", almacenamiento: " 128 GB", pantalla: "IPS LCD de 6.88 pulgadas con resolución HD+", bateria: "5150 mAh"
     },
     {
