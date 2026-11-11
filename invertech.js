@@ -78,21 +78,21 @@ const productos = [
         ram: " 8 GB", almacenamiento: "256 GB o 512 GB", pantalla: " IPS LCD de 7.2 pulgadas con resolución HD+", bateria: "6000 mAh "
     },
     {
-        id: 124, nombre: "Oukitel C61", categoria: "celulares", precio: 4800,
+        id: 124, nombre: "Oukitel C61", categoria: "celulares", precio: 9000,
         imagen: "https://www.depotiendard.com/wp-content/uploads/1-374.jpg",
         descripcion: "Es un teléfono inteligente económico de gama de entrada presentado con Android 15",
         caracteristicas: [""],
         ram: "4GB", almacenamiento: " 128 GB", pantalla: "IPS LCD de 6.88 pulgadas con resolución HD+", bateria: "5150 mAh"
     },
     {
-        id: 125, nombre: "Oukitel C59", categoria: "celulares", precio: 6200,
+        id: 125, nombre: "Oukitel C59", categoria: "celulares", precio: 9600,
         imagen: "https://oukitel.store/cdn/shop/files/6__4_1.webp?v=1769753996&width=300",
         descripcion: "Es un teléfono inteligente económico enfocado en la gran autonomía de batería y resistencia básica",
         caracteristicas: [""],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: " IPS LCD de 6.88 pulgadas con resolución HD+", bateria: "10,000 mAh"
     },
     {
-        id: 126, nombre: "OUKITEL C1", categoria: "celulares", precio: 4500,
+        id: 126, nombre: "OUKITEL C1", categoria: "celulares", precio: 8700,
         imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4_yNc4yphKDraYLh8a0P1qlUHOAh-4_dE93_hC5PO6wSnwmV4XUihdDM&s=10",
         descripcion: "teléfono inteligente de gama de entrada con Android 15.",
         caracteristicas: [""],
