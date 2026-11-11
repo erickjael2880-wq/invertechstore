@@ -35,6 +35,13 @@ const productos = [
         caracteristicas: ["Diseño elegante", "Carga rápida TurboPower", "Sonido Dolby Atmos"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "pOLED Curva 144Hz", bateria: "4400 mAh"
     },
+     {
+        id: 118, nombre: "Kikx", categoria: "celulares", precio: 950,
+        imagen: "https://intercompras.com/images/product/KAIOS_27_CEL_KAIOS_K-FLIP_250926140945.jpg",
+        descripcion: " celular tipo concha diseñado para usuarios que buscan un dispositivo funcional y sencillo con tecnología eficiente.",
+        caracteristicas: ["Diseño tipo concha", "Procesador Dual Core"],
+        ram: "512MB", almacenamiento: "4GB", pantalla: " 2.4 pulgadas", bateria: "2400 mAh"
+    },
 
     // --- LAPTOPS ---
     {
