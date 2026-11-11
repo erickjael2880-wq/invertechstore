@@ -121,7 +121,8 @@ const productos = [
         imagen: "https://m.media-amazon.com/images/I/61vPxLWoCZL._AC_SL1500_.jpg",
         descripcion: "Ventilador de doble cabezal 360 para una refrigeración más amplia: Dos cabezales de ventilador controlados de forma independiente ayudan a enfriar una dirección o dos espacios a la vez.",
         caracteristicas: ["Ventilador de mesa USB de doble cabezal", "batería de 6000 mAh", "6 velocidades", "pantalla digital", "oscilación de 120°"]
-            
+
+    },
 
     // --- AURICULARES ---
     {
