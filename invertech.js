@@ -593,7 +593,12 @@ const productos = [
         descripcion: "Ventilador de torre moderno con pantalla LED y panel táctil.",
         caracteristicas: ["Diseño elegante que ahorra espacio", "Pantalla con indicador de temperatura", "Modo brisa natural"]
     },
-
+    {
+        id: 116, nombre: "Abanico portatil fan modelo f10", categoria: "abanicos", precio: 100,
+        imagen: "https://sc04.alicdn.com/kf/H6da6103b8a39411ea1d5902e78f4807ep.jpg",
+        descripcion: "El ventilador de escritorio Hoco HX607 Slim es una solución de refrigeración moderna y ultraportátil diseñada para proporcionar un flujo de aire silencioso y eficiente en cualquier entorno.",
+        caracteristicas: ["diseño ultradelgado y ligero", "Su doble función (sobremesa y montaje en pared)", "batería recargable integrada de 2000 mAh"]
+    },
     // --- AIRES ---
     {
         id: 28, nombre: "Aire Acondicionado Inverter 12000 BTU", categoria: "aires", precio: 24000,
