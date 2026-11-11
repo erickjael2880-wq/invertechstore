@@ -110,6 +110,12 @@ const productos = [
         descripcion: "Con los llaveros Evadollina Brainrot, añades un toque de humor a tu día a día.",
         caracteristicas: ["Llamativo y divertido", "Versátiles", "Resistentes y ligeros"]
     },
+     {
+        id: 115, nombre: "LBatidora de Pedestal", categoria: "accesorios", precio: 100,
+        imagen: "https://m.media-amazon.com/images/I/61qfEw5vTIL._AC_SX679_.jpg",
+        descripcion: "Esta batidora de pedestal pesa menos de 3 kg y mide 33 x 18 x 26 cm. Su tamaño pequeño facilita el almacenamiento y ahorra espacio, ideal para cocinas pequeñas, departamentos o espacios reducidos.",
+        caracteristicas: ["Llamativo y divertidoCapacidad de 3 L y cabezal abatible", "6 velocidades y 4 ventosas antideslizantes", "Accesorios mejorados y fácil limpieza"]
+    },
 
     // --- AURICULARES ---
     {
