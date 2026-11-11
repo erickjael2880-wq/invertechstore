@@ -42,63 +42,7 @@ const productos = [
         caracteristicas: ["Diseño tipo concha", "Procesador Dual Core"],
         ram: "512MB", almacenamiento: "4GB", pantalla: " 2.4 pulgadas", bateria: "2400 mAh"
     },
-    {
-        id: 119, nombre: "M HORSE S26 ULTRA MAX", categoria: "celulares", precio: 7000,
-        imagen: "https://sis.omega.com.do/ProductImages/212d0c58-c5a9-4abc-80ec-0a1c76ca0107.png",
-        descripcion: " Smartphone avanzado con inteligencia artificial y excelente cámara.",
-        caracteristicas: ["pantalla tactil", "conectividad inalambrica"],
-        ram: "8GB", almacenamiento: "128GB", pantalla: "6.8 pulgadas", bateria: "5000mAh"
-    },
-    {
-        id: 120, nombre: "M HORSE 17 pro", categoria: "celulares", precio: 8000 ,
-        imagen: "https://www.depotiendard.com/wp-content/uploads/2-171.jpg",
-        descripcion: "M17 Pro Max) es un teléfono inteligente económico que destaca por replicar la estética y el diseño de alta gama de un iPhone , pero funcionando con sistema operativo Android",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (64-128)"],
-        ram: "12GB", almacenamiento: "128GB ", pantalla: " Entre 6.6 y 6.8 HD+", bateria: "5000 mAh"
-    },
-     {
-        id: 121, nombre: "M-horse 18 pro max", categoria: "celulares", precio: 7700 ,
-        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjDYrkTFfSP1K2jUYpN1hRw-_HWJ6pSfbuk1cbr98NA&s=10",
-        descripcion: "teléfono inteligente económico con diseño inspirado en la estética Pro Max",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (64-128)"],
-        ram: "8GB", almacenamiento: "128GB", pantalla: "6.6 pulgadas HD+", bateria: "5000 mAh"
-    },
-     {
-        id: 122 , nombre: "Oukitel C26 ", categoria: "celulares", precio:5000 ,
-        imagen: "https://cdn.atacadoconnect.com/produtos/1359640/smartphone-oukitel-c26-128gb-4gb-ram-dual-sim-tela-663-dourado-1359640-r1egv.webp",
-        descripcion: "destaca por su diseño delgado, gran pantalla y batería de larga duración",
-        caracteristicas: ["Viene con Android 16 de fábrica (incluye funciones de asistencia con inteligencia artificial según la versión)"],
-        ram: "6 GB", almacenamiento: "128 GB", pantalla: "6.63 pulgadas con resolución HD+", bateria: "5150 mAh"
-    },
-{
-        id: 123 , nombre: "Oukitel C69", categoria: "celulares", precio: ,
-        imagen: "https://oukitel.com/cdn/shop/files/6dd5063284b8ea462bcf3d348f46db07.jpg?v=1777338908&width=1000",
-        descripcion: "un teléfono inteligente económico enfocado en ofrecer una pantalla muy grande y una batería de gran capacidad",
-        caracteristicas: [""],
-        ram: " 8 GB", almacenamiento: "256 GB o 512 GB", pantalla: " IPS LCD de 7.2 pulgadas con resolución HD+", bateria: "6000 mAh "
-    },
-    {
-        id:124 , nombre: " Oukitel C61", categoria: "celulares", precio: ,
-        imagen: "https://www.depotiendard.com/wp-content/uploads/1-374.jpg",
-        descripcion: "Es un teléfono inteligente económico de gama de entrada presentado con Android 15",
-        caracteristicas: [""],
-        ram: "4GB", almacenamiento: " 128 GB", pantalla: "IPS LCD de 6.88 pulgadas con resolución HD+", bateria: "5150 mAh"
-    },
-    {
-        id:125 , nombre: "ukitel C59", categoria: "celulares", precio: ,
-        imagen: "https://oukitel.store/cdn/shop/files/6__4_1.webp?v=1769753996&width=300",
-        descripcion: "Es un teléfono inteligente económico enfocado en la gran autonomía de batería y resistencia básica",
-        caracteristicas: [""],
-        ram: "8 GB", almacenamiento: "256 GB", pantalla: " IPS LCD de 6.88 pulgadas con resolución HD+", bateria: "10,000 mAh"
-    },
-    {
-        id: 126 , nombre: " OUKITEL C1", categoria: "celulares", precio: ,
-        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4_yNc4yphKDraYLh8a0P1qlUHOAh-4_dE93_hC5PO6wSnwmV4XUihdDM&s=10",
-        descripcion: "teléfono inteligente de gama de entrada con Android 15.",
-        caracteristicas: [""],
-        ram: "4 GB", almacenamiento: "128 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5150 mAh"
-    },
-    
+
     // --- LAPTOPS ---
     {
         id: 4, nombre: "Laptop DELL i7", categoria: "laptops", precio: 12000,
