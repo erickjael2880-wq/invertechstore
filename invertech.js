@@ -42,6 +42,34 @@ const productos = [
         caracteristicas: ["Diseño tipo concha", "Procesador Dual Core"],
         ram: "512MB", almacenamiento: "4GB", pantalla: " 2.4 pulgadas", bateria: "2400 mAh"
     },
+    {
+        id: 119, nombre: "M HORSE S26 ULTRA MAX", categoria: "celulares", precio: 7000,
+        imagen: "https://sis.omega.com.do/ProductImages/212d0c58-c5a9-4abc-80ec-0a1c76ca0107.png",
+        descripcion: " Smartphone avanzado con inteligencia artificial y excelente cámara.",
+        caracteristicas: ["pantalla tactil", "conectividad inalambrica"],
+        ram: "8GB", almacenamiento: "128GB", pantalla: "6.8 pulgadas", bateria: "5000mAh"
+    },
+    {
+        id: 120, nombre: "M HORSE 17 pro", categoria: "celulares", precio: 8000 ,
+        imagen: "https://www.depotiendard.com/wp-content/uploads/2-171.jpg",
+        descripcion: "M17 Pro Max) es un teléfono inteligente económico que destaca por replicar la estética y el diseño de alta gama de un iPhone , pero funcionando con sistema operativo Android",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (64-128)"],
+        ram: "12GB", almacenamiento: "128GB ", pantalla: " Entre 6.6 y 6.8 HD+", bateria: "5000 mAh"
+    },
+     {
+        id: 121, nombre: "M-horse 18 pro max", categoria: "celulares", precio: 7700 ,
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbjDYrkTFfSP1K2jUYpN1hRw-_HWJ6pSfbuk1cbr98NA&s=10",
+        descripcion: "teléfono inteligente económico con diseño inspirado en la estética Pro Max",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (64-128)"],
+        ram: "8GB", almacenamiento: "128GB", pantalla: "6.6 pulgadas HD+", bateria: "5000 mAh"
+    },
+     {
+        id: 122 , nombre: "Oukitel C26 ", categoria: "celulares", precio:5000 ,
+        imagen: "https://cdn.atacadoconnect.com/produtos/1359640/smartphone-oukitel-c26-128gb-4gb-ram-dual-sim-tela-663-dourado-1359640-r1egv.webp",
+        descripcion: "destaca por su diseño delgado, gran pantalla y batería de larga duración",
+        caracteristicas: ["Viene con Android 16 de fábrica (incluye funciones de asistencia con inteligencia artificial según la versión)"],
+        ram: "6 GB", almacenamiento: "128 GB", pantalla: "6.63 pulgadas con resolución HD+", bateria: "5150 mAh"
+    },
 
     // --- LAPTOPS ---
     {
@@ -590,7 +618,7 @@ const productos = [
         caracteristicas: ["Motor silencioso", "Aspas aerodinámicas", "Altura regulable"]
     },
     {
-        id: 92, nombre: "Mini Abanico de Mesa USB", categoria: "abanicos", precio: 450,
+        id: 92, nombre: "Mini Abanico de Mesa USB", categoria: "abanicos", precio: 1600,
         imagen: "https://cdn.asi.do/jf1h4nykpohthkveojbvm7dtqjlh",
         descripcion: "Ventilador personal compacto alimentado por USB para oficina o estudio.",
         caracteristicas: ["Funcionamiento silencioso", "Ángulo ajustable de 360 grados", "Bajo consumo energético"]
@@ -602,7 +630,7 @@ const productos = [
         caracteristicas: ["Control remoto inalámbrico", "Oscilación amplia", "Temporizador programable"]
     },
     {
-        id: 94, nombre: "Abanico Portátil Recargable", categoria: "abanicos", precio: 650,
+        id: 94, nombre: "Abanico Portátil Recargable", categoria: "abanicos", precio: 1500,
         imagen: "https://media.adeo.com/mkp/a764b70a4be9015e5344bcc7704bfa44/media.jpg",
         descripcion: "Ventilador de mano con batería recargable y base de escritorio.",
         caracteristicas: ["Batería de larga duración", "Tamaño compacto", "3 niveles de velocidad"]
@@ -614,7 +642,7 @@ const productos = [
         caracteristicas: ["Diseño elegante que ahorra espacio", "Pantalla con indicador de temperatura", "Modo brisa natural"]
     },
     {
-        id: 116, nombre: "Abanico portatil fan modelo f10", categoria: "abanicos", precio: 100,
+        id: 116, nombre: "Abanico portatil fan modelo f10", categoria: "abanicos", precio: 800,
         imagen: "https://sc04.alicdn.com/kf/H6da6103b8a39411ea1d5902e78f4807ep.jpg",
         descripcion: "El ventilador de escritorio Hoco HX607 Slim es una solución de refrigeración moderna y ultraportátil diseñada para proporcionar un flujo de aire silencioso y eficiente en cualquier entorno.",
         caracteristicas: ["diseño ultradelgado y ligero", "Su doble función (sobremesa y montaje en pared)", "batería recargable integrada de 2000 mAh"]
