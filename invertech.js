@@ -119,14 +119,6 @@ const productos = [
         caracteristicas: ["dependiendo la capacidad s rango de precio amenta"],
         ram: "4GB", almacenamiento: " 128GB", pantalla: " IPS LCD de 7.2 pulgadas HD+", bateria: "6000 mAh con soporte de carga rápida de 18W"
     },
-    {
-        id:130 , nombre: "Okitel C17", categoria: "celulares", precio: ,
-        imagen: "https://oukitel.store/cdn/shop/files/oukitel-c17-mini-orange.jpg?v=1789548672",
-        descripcion: "n smartphone económico de gama de entrada lanzado en 2026 con Android 16, pantalla de 6.52 pulgadas, batería de 5,000 mAh y procesador Unisoc T310 de cuatro núcleos",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta"],
-        ram: "4 GB", almacenamiento: "32 GB", pantalla: "6.52 pulgadas PS LCD, ", bateria: "5,000 mAh"
-    },
-
     // --- LAPTOPS ---
     {
         id: 4, nombre: "Laptop DELL i7", categoria: "laptops", precio: 12000,
