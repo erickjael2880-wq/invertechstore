@@ -30,7 +30,7 @@ const productos = [
     },
     {
         id: 30, nombre: "Motorola Edge", categoria: "celulares", precio: 5900,
-        imagen: "https://m.media-amazon.com/images/I/61TE0qpbLQL._AC_UY327_FMwebp_QL65_.jpg",
+        imagen: "https://www.clarin.com/2020/04/22/Geph5fRod_1200x0__1.jpg",
         descripcion: "Celular con pantalla curva y gran fluidez para uso diario.",
         caracteristicas: ["Diseño elegante", "Carga rápida TurboPower", "Sonido Dolby Atmos"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "pOLED Curva 144Hz", bateria: "4400 mAh"
@@ -136,7 +136,7 @@ const productos = [
 
     {
         id: 132, nombre: "Samsung Galaxy A06", categoria: "celulares", precio: 4500,
-        imagen: "https://http2.mlstatic.com/D_NQ_NP_775974-MLA99913828865_112025-O.webp",
+        imagen: "https://portatilshoprd.com/wp-content/uploads/2026/08/SM-A065F_Galaxy-A06_Blue-Black_Front.png",
         descripcion: "Smartphone económico de entrada con excelente rendimiento para tareas diarias y redes sociales.",
         caracteristicas: ["Diseño moderno", "Lector de huellas lateral", "Doble cámara"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD de 6.7 pulgadas", bateria: "5000 mAh"
@@ -157,7 +157,7 @@ const productos = [
     },
     {
         id: 135, nombre: "Samsung Galaxy A16", categoria: "celulares", precio: 6900,
-        imagen: "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a165mzkmaro/gallery/ar-galaxy-a16-sm-a165-582499-sm-a165mzkmaro-551338135?$1164_776_PNG$",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/feature/165745490/latin-feature-bring-details-to-life-with-multi-cameras-544288348?$550_N_JPG$",
         descripcion: "Celular equilibrado de gama media con gran capacidad de almacenamiento interno.",
         caracteristicas: ["Actualizaciones prolongadas", "Pantalla Super AMOLED"],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED de 6.7 pulgadas", bateria: "5000 mAh"
