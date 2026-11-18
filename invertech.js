@@ -98,13 +98,41 @@ const productos = [
         caracteristicas: [""],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5150 mAh"
     },
-    {
-        id:127 , nombre: "Oukitel C60", categoria: "celulares", precio: ,
+   {
+        id: 127, nombre: "Oukitel C60", categoria: "celulares", precio: 9200,
         imagen: "https://vrdigital.com.ec/wp-content/uploads/2026/03/VR-Digital-Oukitel-C60-Pro-2.jpg",
-        descripcion: "un teléfono inteligente económico lanzado en 2025 que destaca por su gran autonomía y altavoz de alta potencia.",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (128-256)"],
-        ram: " 4-8 GB", almacenamiento: "128-256 GB", pantalla: " IPS LCD de 6.88 pulgadas, resolución HD+", bateria: " 10,000 mAh con carga rápida de 18W"
+        descripcion: "Teléfono inteligente económico que destaca por su gran autonomía y altavoz de alta potencia.",
+        caracteristicas: ["Dependiendo la capacidad su rango de precio aumenta (128-256 GB)", "Altavoz de alta potencia"],
+        ram: "4-8 GB", almacenamiento: "128-256 GB", pantalla: "IPS LCD de 6.88 pulgadas HD+", bateria: "10,000 mAh con carga rápida de 18W"
     },
+    {
+        id: 128, nombre: "Oukitel C68", categoria: "celulares", precio: 10950,
+        imagen: "https://oukitel.com/cdn/shop/files/5b679204342a61e6d7565e4924ef6c8c.jpg?v=1775179846&width=1000",
+        descripcion: "Smartphone de gran formato con pantalla fluida de 120 Hz, cámara de 64 MP y batería de larga duración.",
+        caracteristicas: ["Cámara principal de 64 MP", "Lector de huellas lateral y NFC", "Android 15"],
+        ram: "4-8 GB (ampliable)", almacenamiento: "128-512 GB", pantalla: "IPS LCD de 7.2 pulgadas HD+ 120Hz", bateria: "6000 mAh con carga de 18W"
+    },
+    {
+        id: 129, nombre: "Oukitel C17", categoria: "celulares", precio: 7950,
+        imagen: "https://cdn.shopify.com/s/files/1/0392/7428/3139/files/c17_phone_1.jpg",
+        descripcion: "Teléfono inteligente económico ideal para llamadas, WhatsApp, redes sociales y uso diario básico.",
+        caracteristicas: ["Android 16 de fábrica", "Cámara principal de 13 MP", "Lector de huellas lateral"],
+        ram: "4 GB (16 GB con virtual)", almacenamiento: "64 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
+    },
+    {
+        id: 130, nombre: "Oukitel P2 Plus", categoria: "celulares", precio: 15500,
+        imagen: "https://oukitel.com/cdn/shop/files/P2_Plus_Orange_1.jpg",
+        descripcion: "Smartphone ultradelgado 5G de 7.7 mm con pantalla FHD+ de 120 Hz y cámara Sony de 50 MP.",
+        caracteristicas: ["Conectividad 5G y procesador Dimensity 7100", "Cámara Sony IMX766 de 50 MP", "Huella bajo pantalla y carga rápida de 45W"],
+        ram: "12 GB", almacenamiento: "256 GB", pantalla: "6.7 pulgadas FHD+ 120Hz", bateria: "5000 mAh con carga rápida de 45W"
+    },
+    {
+        id: 131, nombre: "Oukitel C3", categoria: "celulares", precio: 8400,
+        imagen: "https://oukitel.es/wp-content/uploads/2025/10/Oukitel-C3-negro-001_l-thegem-blog-timeline-large.jpg",
+        descripcion: "Celular de gama de entrada con diseño delgado de 9.3 mm y batería de 5000 mAh para uso cotidiano.",
+        caracteristicas: ["Cámara principal de 13 MP", "Dual SIM y USB Tipo-C", "Android 14"],
+        ram: "4 GB (ampliable)", almacenamiento: "64-256 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
+    }
 
     // --- LAPTOPS ---
     {
