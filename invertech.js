@@ -133,6 +133,167 @@ const productos = [
         caracteristicas: ["Cámara principal de 13 MP", "Dual SIM y USB Tipo-C", "Android 14"],
         ram: "4 GB (ampliable)", almacenamiento: "64-256 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
     },
+    {
+        id: 132, nombre: "Samsung Galaxy A06", categoria: "celulares", precio: 4500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a065fzsrmeb/gallery/levant-galaxy-a06-sm-a065-sm-a065fzsrmeb-543202949?$720_576_PNG$",
+        descripcion: "Smartphone económico de entrada con excelente rendimiento para tareas diarias y redes sociales.",
+        caracteristicas: ["Diseño moderno", "Lector de huellas lateral", "Doble cámara"],
+        ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD de 6.7 pulgadas", bateria: "5000 mAh"
+    },
+    {
+        id: 133, nombre: "Samsung Galaxy A07", categoria: "celulares", precio: 5200,
+        imagen: "https://www.globatecrd.com/wp-content/uploads/2026/06/samsung-a07.jpg",
+        descripcion: "Versión actualizada de la serie económica A con mejor fluidez y diseño renovado.",
+        caracteristicas: ["Pantalla amplia", "Eficiencia energética", "Cámara dual"],
+        ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD de 6.7 pulgadas", bateria: "5000 mAh"
+    },
+    {
+        id: 134, nombre: "Samsung Galaxy A07s", categoria: "celulares", precio: 5800,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/levant/sm-a075fzsrmeb/gallery/...",
+        descripcion: "Modelo optimizado con mayor tasa de refresco y mejor respuesta en multitarea.",
+        caracteristicas: ["Pantalla fluida", "Carga rápida"],
+        ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLSD LCD 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 135, nombre: "Samsung Galaxy A16", categoria: "celulares", precio: 6900,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a165mzkeltgy/gallery/latin-galaxy-a16-sm-a165-534351?$720_576_PNG$",
+        descripcion: "Celular equilibrado de gama media con gran capacidad de almacenamiento interno.",
+        caracteristicas: ["Actualizaciones prolongadas", "Pantalla Super AMOLED"],
+        ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED de 6.7 pulgadas", bateria: "5000 mAh"
+    },
+    {
+        id: 136, nombre: "Samsung Galaxy A15 5G", categoria: "celulares", precio: 8200,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a156mzkaltgy/gallery/latin-galaxy-a15-5g-sm-a156-538965?$720_576_PNG$",
+        descripcion: "Conectividad 5G ultrarrápida y pantalla brillante para contenido multimedia.",
+        caracteristicas: ["Conectividad 5G", "Pantalla Super AMOLED 90Hz"],
+        ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 137, nombre: "Samsung Galaxy A16 5G", categoria: "celulares", precio: 8900,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a166mzkaltgy/gallery/...",
+        descripcion: "La evolución de la serie A1x con 5G y mayor memoria RAM para un rendimiento fluido.",
+        caracteristicas: ["Conectividad 5G", "Diseño ultra estilizado"],
+        ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 138, nombre: "Samsung Galaxy A17 5G", categoria: "celulares", precio: 9800,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a176...jpg",
+        descripcion: "Smartphone avanzado con soporte 5G, cámara de alta resolución y gran eficiencia.",
+        caracteristicas: ["Blister original", "Cámara mejorada con IA"],
+        ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED FHD+", bateria: "5000 mAh"
+    },
+    {
+        id: 139, nombre: "Samsung Galaxy A17", categoria: "celulares", precio: 10500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a175...jpg",
+        descripcion: "Configuración superior con 8 GB de RAM y gran espacio interno de 256 GB.",
+        caracteristicas: ["Gran memoria interna", "Fluidez superior"],
+        ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED FHD+", bateria: "5000 mAh"
+    },
+    {
+        id: 140, nombre: "Samsung Galaxy A27 5G", categoria: "celulares", precio: 12500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a276...jpg",
+        descripcion: "Gama media alta con procesador potente, conectividad 5G y pantalla de gran definición.",
+        caracteristicas: ["Rendimiento fluido", "Cámara con estabilización óptica (OIS)"],
+        ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 141, nombre: "Samsung Galaxy A36 5G", categoria: "celulares", precio: 14900,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a366...jpg",
+        descripcion: "Diseño prémium resistente al agua y al polvo, con rendimiento fotográfico superior.",
+        caracteristicas: ["Protección IP67", "Cámara principal de alta gama"],
+        ram: "8 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 142, nombre: "Samsung Galaxy A37 5G", categoria: "celulares", precio: 16800,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a376...jpg",
+        descripcion: "Excelente equilibrio entre potencia, almacenamiento masivo y fotografía avanzada.",
+        caracteristicas: ["Procesador de alto rendimiento", "Almacenamiento amplio"],
+        ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 143, nombre: "Samsung Galaxy A54 5G", categoria: "celulares", precio: 15500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a546mzkaltgy/gallery/latin-galaxy-a54-5g-sm-a546-535043?$720_576_PNG$",
+        descripcion: "Diseño trasero de cristal premium, cámaras de nivel profesional y certificación IP67.",
+        caracteristicas: ["Cámara Nightography", "Construcción en cristal y metal"],
+        ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 144, nombre: "Samsung Galaxy A56 5G", categoria: "celulares", precio: 19500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a566...jpg",
+        descripcion: "Gama media-alta de referencia con potencia fotográfica y capacidad masiva.",
+        caracteristicas: ["Procesador Exynos avanzado", "Carga rápida superior"],
+        ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 145, nombre: "Samsung Galaxy A57 5G", categoria: "celulares", precio: 21500,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a576...jpg",
+        descripcion: "Smartphone avanzado con funciones de inteligencia artificial y máxima fluidez visual.",
+        caracteristicas: ["Galaxy AI integrado", "Cámaras con IA avanzada"],
+        ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 146, nombre: "Samsung Galaxy S25 Ultra 5G", categoria: "celulares", precio: 48900,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-s938b...jpg",
+        descripcion: "El buque insignia definitivo de Samsung con S-Pen integrado, titanio y cámaras profesionales.",
+        caracteristicas: ["Cámara de 200 MP con Zoom Space", "S-Pen integrado", "Procesador Snapdragon de última generación"],
+        ram: "12 GB", almacenamiento: "256 GB", pantalla: "Dynamic AMOLED 2X 6.8\" 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 147, nombre: "Samsung Galaxy S26 Ultra 5G", categoria: "celulares", precio: 53900,
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-s948b...jpg",
+        descripcion: "Máxima potencia tecnológica del mercado con capacidades de inteligencia artificial de siguiente generación.",
+        caracteristicas: ["Máximo rendimiento gráfico", "Almacenamiento masivo ultrarrápido", "S-Pen optimizado"],
+        ram: "12 GB", almacenamiento: "512 GB", pantalla: "Dynamic AMOLED 2X 120Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 148, nombre: "Xiaomi Redmi 15C", categoria: "celulares", precio: 6200,
+        imagen: "https://i02.appmifile.com/...redmi-15c.png",
+        descripcion: "Económico, con gran pantalla y batería duradera para el día a día.",
+        caracteristicas: ["Diseño juvenil", "Excelente autonomía"],
+        ram: "8 GB", almacenamiento: "128 GB", pantalla: "IPS LCD 6.74 pulgadas 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 149, nombre: "Xiaomi Redmi 15C (256GB)", categoria: "celulares", precio: 7100,
+        imagen: "https://i02.appmifile.com/...redmi-15c.png",
+        descripcion: "Versión de mayor capacidad del popular Redmi 15C.",
+        caracteristicas: ["Gran almacenamiento", "Batería de larga duración"],
+        ram: "8 GB", almacenamiento: "256 GB", pantalla: "IPS LCD 6.74 pulgadas 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 150, nombre: "Xiaomi Redmi A7", categoria: "celulares", precio: 4900,
+        imagen: "https://i02.appmifile.com/...redmi-a7.png",
+        descripcion: "Smartphone súper económico diseñado para llamadas, mensajería y redes sociales ligeras.",
+        caracteristicas: ["Android Go / Edición ligera", "Precio accesible"],
+        ram: "6 GB", almacenamiento: "64 GB", pantalla: "IPS LCD HD+", bateria: "5000 mAh"
+    },
+    {
+        id: 151, nombre: "Xiaomi Redmi A7 Pro", categoria: "celulares", precio: 5700,
+        imagen: "https://i02.appmifile.com/...redmi-a7-pro.png",
+        descripcion: "Modelo mejorado de la serie de entrada con más memoria RAM.",
+        caracteristicas: ["Mejor rendimiento multitarea", "Diseño delgado"],
+        ram: "8 GB", almacenamiento: "128 GB", pantalla: "IPS LCD HD+", bateria: "5000 mAh"
+    },
+    {
+        id: 152, nombre: "Xiaomi Redmi 17", categoria: "celulares", precio: 7800,
+        imagen: "https://i02.appmifile.com/...redmi-17.png",
+        descripcion: "Gama de entrada superior con especificaciones equilibradas y memoria expandida.",
+        caracteristicas: ["Pantalla fluida", "Cámara con IA"],
+        ram: "8 GB (4+4 virtual)", almacenamiento: "128 GB", pantalla: "FHD+ 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 153, nombre: "Xiaomi Redmi 17 (256GB)", categoria: "celulares", precio: 8600,
+        imagen: "https://i02.appmifile.com/...redmi-17.png",
+        descripcion: "Edición con 256 GB de almacenamiento del Redmi 17.",
+        caracteristicas: ["Espacio amplio para fotos y apps"],
+        ram: "8 GB (4+4 virtual)", almacenamiento: "256 GB", pantalla: "FHD+ 90Hz", bateria: "5000 mAh"
+    },
+    {
+        id: 154, nombre: "Xiaomi Redmi Note 15", categoria: "celulares", precio: 10800,
+        imagen: "https://i02.appmifile.com/...note-15.png",
+        descripcion: "El rey de la gama media con pantalla AMOLED de alta calidad y cámara principal de alta resolución.",
+        caracteristicas: ["Cámara principal con OIS", "Carga rápida de 33W"],
+        ram: "12 GB (6+6 virtual)", almacenamiento: "128 GB", pantalla: "AMOLED 120Hz", bateria: "5000 mAh"
+    },
 
     // --- LAPTOPS ---
     {
