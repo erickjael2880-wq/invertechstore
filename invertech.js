@@ -114,14 +114,14 @@ const productos = [
     },
     {
         id: 129, nombre: "Oukitel C17", categoria: "celulares", precio: 7950,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-c17-pro.jpg",
+        imagen: "https://oukitel.store/cdn/shop/files/oukitel-c17-mini-orange.jpg?v=1789548672",
         descripcion: "Teléfono inteligente económico ideal para llamadas, WhatsApp, redes sociales y uso diario básico.",
         caracteristicas: ["Cámara principal de 13 MP", "Lector de huellas lateral"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
     },
     {
         id: 130, nombre: "Oukitel P2 Plus", categoria: "celulares", precio: 15500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-p2-plus-5g.jpg",
+        imagen: "https://oukitel.store/cdn/shop/files/c61aee4cc5f49a04212a9a2a164dc7cb_538f620a-a25b-4840-b05b-a3afb5667cac.webp?v=1785482901",
         descripcion: "Smartphone ultradelgado 5G de 7.7 mm con pantalla FHD+ de 120 Hz y cámara Sony de 50 MP.",
         caracteristicas: ["Conectividad 5G", "Cámara Sony IMX766 de 50 MP"],
         ram: "12 GB", almacenamiento: "256 GB", pantalla: "6.7 pulgadas FHD+ 120Hz", bateria: "5000 mAh con carga rápida de 45W"
@@ -134,31 +134,30 @@ const productos = [
         ram: "4 GB", almacenamiento: "64-256 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
     },
 
-    // --- SAMSUNG Y XIAOMI ---
     {
         id: 132, nombre: "Samsung Galaxy A06", categoria: "celulares", precio: 4500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a06.jpg",
+        imagen: "https://http2.mlstatic.com/D_NQ_NP_775974-MLA99913828865_112025-O.webp",
         descripcion: "Smartphone económico de entrada con excelente rendimiento para tareas diarias y redes sociales.",
         caracteristicas: ["Diseño moderno", "Lector de huellas lateral", "Doble cámara"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD de 6.7 pulgadas", bateria: "5000 mAh"
     },
     {
         id: 133, nombre: "Samsung Galaxy A07", categoria: "celulares", precio: 5200,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a07.jpg",
+        imagen: "https://media.flixcar.com/webp/synd-asset/Samsung-379916047-latin-galaxy-a07-sm-a075-sm-a075mzkggto-548997605--Download-Source--zoom.png",
         descripcion: "Versión actualizada de la serie económica A con mejor fluidez y diseño renovado.",
         caracteristicas: ["Pantalla amplia", "Eficiencia energética", "Cámara dual"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD de 6.7 pulgadas", bateria: "5000 mAh"
     },
     {
         id: 134, nombre: "Samsung Galaxy A07s", categoria: "celulares", precio: 5800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a07s.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/feature/167525978/latin-feature-ip54-dust-and-water-protection-554307726?$FB_TYPE_C_JPG$",
         descripcion: "Modelo optimizado con mayor tasa de refresco y mejor respuesta en multitarea.",
         caracteristicas: ["Pantalla fluida", "Carga rápida"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "PLS LCD 90Hz", bateria: "5000 mAh"
     },
     {
         id: 135, nombre: "Samsung Galaxy A16", categoria: "celulares", precio: 6900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a16-4g.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a165mzkmaro/gallery/ar-galaxy-a16-sm-a165-582499-sm-a165mzkmaro-551338135?$1164_776_PNG$",
         descripcion: "Celular equilibrado de gama media con gran capacidad de almacenamiento interno.",
         caracteristicas: ["Actualizaciones prolongadas", "Pantalla Super AMOLED"],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED de 6.7 pulgadas", bateria: "5000 mAh"
@@ -193,7 +192,7 @@ const productos = [
     },
     {
         id: 140, nombre: "Samsung Galaxy A27 5G", categoria: "celulares", precio: 12500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a27-5g.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/pe/feature/167408737/pe-feature-blue-553754484?$FB_TYPE_K_MO_JPG$",
         descripcion: "Gama media alta con procesador potente, conectividad 5G y pantalla de gran definición.",
         caracteristicas: ["Rendimiento fluido", "Cámara con estabilización óptica (OIS)"],
         ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
@@ -207,7 +206,7 @@ const productos = [
     },
     {
         id: 142, nombre: "Samsung Galaxy A37 5G", categoria: "celulares", precio: 16800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a37-5g.jpg",
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWOQg2Uw__PjqMF3M3flz77-j5lpbTfRIKfKWS2l22qTmjDC6dU5D15M&s=10",
         descripcion: "Excelente equilibrio entre potencia, almacenamiento masivo y fotografía avanzada.",
         caracteristicas: ["Procesador de alto rendimiento", "Almacenamiento amplio"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
@@ -221,14 +220,14 @@ const productos = [
     },
     {
         id: 144, nombre: "Samsung Galaxy A56 5G", categoria: "celulares", precio: 19500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/assets/es/smartphones/a56/Color-Selection_Awesome-Graphite_MO.png?imbypass=true",
         descripcion: "Gama media-alta de referencia con potencia fotográfica y capacidad masiva.",
         caracteristicas: ["Procesador Exynos avanzado", "Carga rápida superior"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
     },
     {
         id: 145, nombre: "Samsung Galaxy A57 5G", categoria: "celulares", precio: 21500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a57-5g.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/es/feature/167043214/es-feature-awesome-gray-551746832?$FB_TYPE_K_MO_JPG$",
         descripcion: "Smartphone avanzado con funciones de inteligencia artificial y máxima fluidez visual.",
         caracteristicas: ["Galaxy AI integrado", "Cámaras con IA avanzada"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
