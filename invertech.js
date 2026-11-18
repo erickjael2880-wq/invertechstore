@@ -295,6 +295,7 @@ const productos = [
         caracteristicas: ["Cámara principal con OIS", "Carga rápida de 33W"],
         ram: "12 GB (6+6 virtual)", almacenamiento: "128 GB", pantalla: "AMOLED 120Hz", bateria: "5000 mAh"
     },
+    
 
     // --- LAPTOPS ---
     {
@@ -332,6 +333,12 @@ const productos = [
         caracteristicas: ["Diseño delgado", "Pantalla NanoEdge", "Carga rápida"],
         ram: "8 GB", almacenamiento: "512 GB SSD", pantalla: "OLED de 15.6 pulgadas", bateria: "42 Whr"
     },
+    { 
+        id: 155, nombre:"Dell Latitude 3910",categoria: "laptos", precio: 12700,
+        imagen: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6xEOnGItMbnvxUIOY_-wtitpz-AifywHnplHAMPSJT0TVPsAc",
+        descripcion:"Equipo educativo y portátil de 11.6 pulgadas (con opción táctil y bisagra de 360 grados). Suele venir con procesadores Intel Celeron o Pentium Silver, 4 GB a 8 GB de RAM y almacenamiento SSD o eMMC. Sirve para clases, navegación básica, documentos y videoconferencias.",
+        ram:"4 GB o 8 GB DDR4",almacenamiento:"64 GB eMMC o SSD M.2 de hasta 256 GB",pantalla:"11.6 pulgadas HD (1366 × 768) con opción táctil. Incluye bisagra giratoria de 360° en su versión 2 en 1.",bateria:"42 Wh de 3 celdas (integrada). En buen estado rinde entre 6 y 10 horas de uso ligero."
+    },       
 
     // --- ACCESORIOS ---
     {
