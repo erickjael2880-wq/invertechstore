@@ -336,7 +336,7 @@ const productos = [
     { 
         id: 155, nombre:"Dell Latitude 3910",categoria: "laptos", precio: 12700,
         imagen: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6xEOnGItMbnvxUIOY_-wtitpz-AifywHnplHAMPSJT0TVPsAc",
-        descripcion:"Equipo educativo y portátil de 11.6 pulgadas (con opción táctil y bisagra de 360 grados). Suele venir con procesadores Intel Celeron o Pentium Silver, 4 GB a 8 GB de RAM y almacenamiento SSD o eMMC. Sirve para clases, navegación básica, documentos y videoconferencias.",
+        descripcion:"Equipo educativo y portátil de 11.6 pulgadas (con opción táctil y bisagra de 360 grados).",
         ram:"4 GB o 8 GB DDR4",almacenamiento:"64 GB eMMC o SSD M.2 de hasta 256 GB",pantalla:"11.6 pulgadas HD (1366 × 768) con opción táctil. Incluye bisagra giratoria de 360° en su versión 2 en 1.",bateria:"42 Wh de 3 celdas (integrada). En buen estado rinde entre 6 y 10 horas de uso ligero."
     },       
 
