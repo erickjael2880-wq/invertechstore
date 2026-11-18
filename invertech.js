@@ -164,28 +164,28 @@ const productos = [
     },
     {
         id: 136, nombre: "Samsung Galaxy A15 5G", categoria: "celulares", precio: 8200,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a15-5g-new.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/africa_en/sm-a156ezbgafb/gallery/africa-en-galaxy-a15-5g-sm-a156-sm-a156ezbgafb-539407182?$1164_776_PNG$",
         descripcion: "Conectividad 5G ultrarrápida y pantalla brillante para contenido multimedia.",
         caracteristicas: ["Conectividad 5G", "Pantalla Super AMOLED 90Hz"],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 90Hz", bateria: "5000 mAh"
     },
     {
         id: 137, nombre: "Samsung Galaxy A16 5G", categoria: "celulares", precio: 8900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a16-5g.jpg",
+        imagen: "https://m.media-amazon.com/images/I/71dBNt4+g7L.jpgg",
         descripcion: "La evolución de la serie A1x con 5G y mayor memoria RAM para un rendimiento fluido.",
         caracteristicas: ["Conectividad 5G", "Diseño ultra estilizado"],
         ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 90Hz", bateria: "5000 mAh"
     },
     {
         id: 138, nombre: "Samsung Galaxy A17 5G", categoria: "celulares", precio: 9800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17-5g.jpg",
+        imagen: "https://shop.samsung.com/latin/pub/media/catalog/product/cache/a69170b4a4f0666a52473c2224ba9220/s/m/sm-a175_galaxy-a17_lte_00_1.png",
         descripcion: "Smartphone avanzado con soporte 5G, cámara de alta resolución y gran eficiencia.",
         caracteristicas: ["Blister original", "Cámara mejorada con IA"],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED FHD+", bateria: "5000 mAh"
     },
     {
         id: 139, nombre: "Samsung Galaxy A17", categoria: "celulares", precio: 10500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a17-4g.jpg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/es/feature/166421046/es-feature-sleek--slim--and-stunning-548390149?$550_N_JPG$",
         descripcion: "Configuración superior con 8 GB de RAM y gran espacio interno de 256 GB.",
         caracteristicas: ["Gran memoria interna", "Fluidez superior"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "Super AMOLED FHD+", bateria: "5000 mAh"
@@ -199,7 +199,7 @@ const productos = [
     },
     {
         id: 141, nombre: "Samsung Galaxy A36 5G", categoria: "celulares", precio: 14900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a36.jpg",
+        imagen: "https://s7d1.scene7.com/is/image/tracfone/Ph_Front_Back_Prof_698x564_S366V?scl=1&fmt=webp-alpha&qlt=80,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
         descripcion: "Diseño prémium resistente al agua y al polvo, con rendimiento fotográfico superior.",
         caracteristicas: ["Protección IP67", "Cámara principal de alta gama"],
         ram: "8 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
@@ -213,7 +213,7 @@ const productos = [
     },
     {
         id: 143, nombre: "Samsung Galaxy A54 5G", categoria: "celulares", precio: 15500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a54.jpg",
+        imagen: "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_137564166/fee_786_587_png",
         descripcion: "Diseño trasero de cristal premium, cámaras de nivel profesional y certificación IP67.",
         caracteristicas: ["Cámara Nightography", "Construcción en cristal y metal"],
         ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 120Hz", bateria: "5000 mAh"
