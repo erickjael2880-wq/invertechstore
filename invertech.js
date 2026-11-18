@@ -234,63 +234,63 @@ const productos = [
     },
     {
         id: 146, nombre: "Samsung Galaxy S25 Ultra 5G", categoria: "celulares", precio: 48900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s25-ultra-sm-s938.jpg",
+        imagen: "https://www.grover.com/_next/image?url=https%3A%2F%2Fres-3.cloudinary.com%2Fgrover%2Fimage%2Fupload%2Fe_trim%2Fc_limit%2Cf_auto%2Cfl_png8.lossy%2Ch_500%2Cq_auto%2Cw_500%2Fv1737965934%2Fiil479vd0lxwj9f6fvjw.png&w=3840&q=75",
         descripcion: "El buque insignia definitivo de Samsung con S-Pen integrado, titanio y cámaras profesionales.",
         caracteristicas: ["Cámara de 200 MP con Zoom Space", "S-Pen integrado", "Procesador Snapdragon de última generación"],
         ram: "12 GB", almacenamiento: "256 GB", pantalla: "Dynamic AMOLED 2X 6.8\" 120Hz", bateria: "5000 mAh"
     },
     {
         id: 147, nombre: "Samsung Galaxy S26 Ultra 5G", categoria: "celulares", precio: 53900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s26-ultra.jpg",
+        imagen: "https://www.altice.com.do/sites/default/files/styles/product/public/equipment_images/2026-03/Samsung-Galaxy-Front-S26-Ultra-Sky-Blue-Front%26Back.png?itok=GPFu6hmH",
         descripcion: "Máxima potencia tecnológica del mercado con capacidades de inteligencia artificial de siguiente generación.",
         caracteristicas: ["Máximo rendimiento gráfico", "Almacenamiento masivo ultrarrápido", "S-Pen optimizado"],
         ram: "12 GB", almacenamiento: "512 GB", pantalla: "Dynamic AMOLED 2X 120Hz", bateria: "5000 mAh"
     },
     {
         id: 148, nombre: "Xiaomi Redmi 15C", categoria: "celulares", precio: 6200,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c.jpg",
+        imagen: "https://www.lan-mi.es/wp-content/uploads/2025/12/redmi15c-negro.webp",
         descripcion: "Económico, con gran pantalla y batería duradera para el día a día.",
         caracteristicas: ["Diseño juvenil", "Excelente autonomía"],
         ram: "8 GB", almacenamiento: "128 GB", pantalla: "IPS LCD 6.74 pulgadas 90Hz", bateria: "5000 mAh"
     },
     {
         id: 149, nombre: "Xiaomi Redmi 15C (256GB)", categoria: "celulares", precio: 7100,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-15c.jpg",
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLE77yK36afW-aDSPve01sFgCnT9nS1iaiuUhlAnoniyxplCrBBllt7g&s=10",
         descripcion: "Versión de mayor capacidad del popular Redmi 15C.",
         caracteristicas: ["Gran almacenamiento", "Batería de larga duración"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "IPS LCD 6.74 pulgadas 90Hz", bateria: "5000 mAh"
     },
     {
         id: 150, nombre: "Xiaomi Redmi A7", categoria: "celulares", precio: 4900,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a7-4g.jpg",
+        imagen: "https://ithesk.com/web/image/product.template/4655/image_1920",
         descripcion: "Smartphone súper económico diseñado para llamadas, mensajería y redes sociales ligeras.",
         caracteristicas: ["Android Go / Edición ligera", "Precio accesible"],
         ram: "6 GB", almacenamiento: "64 GB", pantalla: "IPS LCD HD+", bateria: "5000 mAh"
     },
     {
         id: 151, nombre: "Xiaomi Redmi A7 Pro", categoria: "celulares", precio: 5700,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-a7-pro-5g_.jpg",
+        imagen: "https://cdn11.bigcommerce.com/s-cjn5s2k99e/products/214/images/1715/Xiaomi_Redmi_A7Pro_Negro_BackFront__31145.1786632998.386.513.jpg?c=1",
         descripcion: "Modelo mejorado de la serie de entrada con más memoria RAM.",
         caracteristicas: ["Mejor rendimiento multitarea", "Diseño delgado"],
         ram: "8 GB", almacenamiento: "128 GB", pantalla: "IPS LCD HD+", bateria: "5000 mAh"
     },
     {
         id: 152, nombre: "Xiaomi Redmi 17", categoria: "celulares", precio: 7800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi17.jpg",
+        imagen: "https://covercompany.com.uy/cdn/shop/files/Xiaomi_Redmi_17_LTE_128GB_4GB_-_Oak_Green.jpg?v=1789656655&width=1920",
         descripcion: "Gama de entrada superior con especificaciones equilibradas y memoria expandida.",
         caracteristicas: ["Pantalla fluida", "Cámara con IA"],
         ram: "8 GB (4+4 virtual)", almacenamiento: "128 GB", pantalla: "FHD+ 90Hz", bateria: "5000 mAh"
     },
     {
         id: 153, nombre: "Xiaomi Redmi 17 (256GB)", categoria: "celulares", precio: 8600,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi17.jpg",
+        imagen: "https://media.falabella.com/falabellaCO/73696824_1/w=1500,h=1500,fit=cover",
         descripcion: "Edición con 256 GB de almacenamiento del Redmi 17.",
         caracteristicas: ["Espacio amplio para fotos y apps"],
         ram: "8 GB (4+4 virtual)", almacenamiento: "256 GB", pantalla: "FHD+ 90Hz", bateria: "5000 mAh"
     },
     {
         id: 154, nombre: "Xiaomi Redmi Note 15", categoria: "celulares", precio: 10800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-15-5g.jpg",
+        imagen: "https://www.globatecrd.com/wp-content/uploads/2025/04/Xiaomi-Redmi-Note-15-Pro.jpg",
         descripcion: "El rey de la gama media con pantalla AMOLED de alta calidad y cámara principal de alta resolución.",
         caracteristicas: ["Cámara principal con OIS", "Carga rápida de 33W"],
         ram: "12 GB (6+6 virtual)", almacenamiento: "128 GB", pantalla: "AMOLED 120Hz", bateria: "5000 mAh"
