@@ -105,6 +105,27 @@ const productos = [
         caracteristicas: ["dependiendo la capacidad s rango de precio amenta (128-256)"],
         ram: " 4-8 GB", almacenamiento: "128-256 GB", pantalla: " IPS LCD de 6.88 pulgadas, resolución HD+", bateria: " 10,000 mAh con carga rápida de 18W"
     },
+    {
+        id:128 , nombre: "Oukitel C62", categoria: "celulares", precio: 9100 ,
+        imagen: "https://static.wixstatic.com/media/6fb93e_307daeba17864e848e81cc34d4f29b70~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
+        descripcion: "un teléfono inteligente económico de gama de entrada que destaca por incluir una pantalla secundaria trasera y una gran batería",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta "],
+        ram: "4 GB", almacenamiento: " 128 GB", pantalla: " Mini pantalla táctil secundaria de 1,81 pulgadas (útil para ver la hora, notificaciones, estado de batería o controlar la música)", bateria: "5.150 mAh, pensada para ofrecer autonomía de un día completo"
+    },
+    {
+        id:129 , nombre: "Oukitel C68", categoria: "celulares", precio: ,
+        imagen: "https://soytechno.com/wp-content/uploads/2026/08/Oukitel-C68-4G-8GB512GB-6000mAh-Grey-1.jpg",
+        descripcion: "un teléfono inteligente de gama de entrada con pantalla grande y gran batería",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta"],
+        ram: "4GB", almacenamiento: " 128GB", pantalla: " IPS LCD de 7.2 pulgadas HD+", bateria: "6000 mAh con soporte de carga rápida de 18W"
+    },
+    {
+        id:130 , nombre: "Okitel C17", categoria: "celulares", precio: ,
+        imagen: "https://oukitel.store/cdn/shop/files/oukitel-c17-mini-orange.jpg?v=1789548672",
+        descripcion: "n smartphone económico de gama de entrada lanzado en 2026 con Android 16, pantalla de 6.52 pulgadas, batería de 5,000 mAh y procesador Unisoc T310 de cuatro núcleos",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta"],
+        ram: "4 GB", almacenamiento: "32 GB", pantalla: "6.52 pulgadas PS LCD, ", bateria: "5,000 mAh"
+    },
 
     // --- LAPTOPS ---
     {
