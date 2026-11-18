@@ -121,7 +121,7 @@ const productos = [
     },
     {
         id: 130, nombre: "Oukitel P2 Plus", categoria: "celulares", precio: 15500,
-        imagen: "https://oukitel.com/cdn/shop/files/P2_Plus_Orange_1.jpg",
+        imagen: "https://oukitel.store/cdn/shop/files/afd602fda06b99a9e4fc0185416f9359_92f923ee-9c53-41ec-85b4-6fcb03b1d615.webp?v=1785482836",
         descripcion: "Smartphone ultradelgado 5G de 7.7 mm con pantalla FHD+ de 120 Hz y cámara Sony de 50 MP.",
         caracteristicas: ["Conectividad 5G y procesador Dimensity 7100", "Cámara Sony IMX766 de 50 MP", "Huella bajo pantalla y carga rápida de 45W"],
         ram: "12 GB", almacenamiento: "256 GB", pantalla: "6.7 pulgadas FHD+ 120Hz", bateria: "5000 mAh con carga rápida de 45W"
