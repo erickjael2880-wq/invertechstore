@@ -171,7 +171,7 @@ const productos = [
     },
     {
         id: 137, nombre: "Samsung Galaxy A16 5G", categoria: "celulares", precio: 8900,
-        imagen: "https://m.media-amazon.com/images/I/71dBNt4+g7L.jpgg",
+        imagen: "https://images.samsung.com/is/image/samsung/p6pim/latin/sm-a165mzkggto/gallery/latin-galaxy-a16-sm-a165-sm-a165mzkggto-544288299?$1164_776_PNG$",
         descripcion: "La evolución de la serie A1x con 5G y mayor memoria RAM para un rendimiento fluido.",
         caracteristicas: ["Conectividad 5G", "Diseño ultra estilizado"],
         ram: "6 GB", almacenamiento: "128 GB", pantalla: "Super AMOLED 90Hz", bateria: "5000 mAh"
