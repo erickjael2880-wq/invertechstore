@@ -98,6 +98,13 @@ const productos = [
         caracteristicas: [""],
         ram: "4 GB", almacenamiento: "128 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5150 mAh"
     },
+    {
+        id:127 , nombre: "Oukitel C60", categoria: "celulares", precio: ,
+        imagen: "https://vrdigital.com.ec/wp-content/uploads/2026/03/VR-Digital-Oukitel-C60-Pro-2.jpg",
+        descripcion: "un teléfono inteligente económico lanzado en 2025 que destaca por su gran autonomía y altavoz de alta potencia.",
+        caracteristicas: ["dependiendo la capacidad s rango de precio amenta (128-256)"],
+        ram: " 4-8 GB", almacenamiento: "128-256 GB", pantalla: " IPS LCD de 6.88 pulgadas, resolución HD+", bateria: " 10,000 mAh con carga rápida de 18W"
+    },
 
     // --- LAPTOPS ---
     {
