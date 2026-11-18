@@ -105,13 +105,7 @@ const productos = [
         caracteristicas: ["dependiendo la capacidad s rango de precio amenta (128-256)"],
         ram: " 4-8 GB", almacenamiento: "128-256 GB", pantalla: " IPS LCD de 6.88 pulgadas, resolución HD+", bateria: " 10,000 mAh con carga rápida de 18W"
     },
-    {
-        id:128 , nombre: "Oukitel C62", categoria: "celulares", precio: 9100 ,
-        imagen: "https://static.wixstatic.com/media/6fb93e_307daeba17864e848e81cc34d4f29b70~mv2.webp/v1/fit/w_500,h_500,q_90/file.webp",
-        descripcion: "un teléfono inteligente económico de gama de entrada que destaca por incluir una pantalla secundaria trasera y una gran batería",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta "],
-        ram: "4 GB", almacenamiento: " 128 GB", pantalla: " Mini pantalla táctil secundaria de 1,81 pulgadas (útil para ver la hora, notificaciones, estado de batería o controlar la música)", bateria: "5.150 mAh, pensada para ofrecer autonomía de un día completo"
-    },
+
     // --- LAPTOPS ---
     {
         id: 4, nombre: "Laptop DELL i7", categoria: "laptops", precio: 12000,
