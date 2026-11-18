@@ -132,7 +132,7 @@ const productos = [
         descripcion: "Celular de gama de entrada con diseño delgado de 9.3 mm y batería de 5000 mAh para uso cotidiano.",
         caracteristicas: ["Cámara principal de 13 MP", "Dual SIM y USB Tipo-C", "Android 14"],
         ram: "4 GB (ampliable)", almacenamiento: "64-256 GB", pantalla: "IPS LCD de 6.52 pulgadas", bateria: "5000 mAh"
-    }
+    },
 
     // --- LAPTOPS ---
     {
