@@ -535,63 +535,63 @@ const productos = [
     },
     {
         id: 55, nombre: "Xiaomi Pad Pro", categoria: "tablets", precio: 12500,
-        imagen: "https://i02.appmifile.com/30_operatorx_operatorx_opx/24/06/2024/965dad479bbe458c5119d225cea6ba5e.png?thumb=1&w=400&q=85",
+        imagen: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PNl4V2OtHcbFad-WMtXeTzUogOQjAFeXrHKUzHyhLg&s=10",
         descripcion: "Tablet potente con tasa de alta frecuencia para juegos y trabajo fluido.",
         caracteristicas: ["Pantalla 144Hz", "Carga rápida de 67W", "Cuerpo metálico delgado"],
         ram: "8 GB", almacenamiento: "256 GB", pantalla: "IPS 11 pulgadas 144Hz", bateria: "8840 mAh"
     },
     {
         id: 155, nombre: "Tablet Sky T8 Elite", categoria: "tablets", precio: 4200,
-        imagen: "https://m.media-amazon.com/images/I/61k8T+L8xIL._AC_SL1500_.jpg",
+        imagen: "https://skydevices.com/wp-content/uploads/2022/08/Elite-T8Plus-memoria.png",
         descripcion: "Tablet compacta de 8 pulgadas ideal para niños, lectura, redes sociales y uso diario básico.",
         caracteristicas: ["Diseño portátil y ligero", "Conectividad Wi-Fi y Bluetooth", "Cámara dual"],
         ram: "3 GB", almacenamiento: "32 GB (expandible)", pantalla: "IPS HD 8 pulgadas", bateria: "4000 mAh"
     },
     {
         id: 156, nombre: "Tablet Villaon V-Pad 2", categoria: "tablets", precio: 4800,
-        imagen: "https://m.media-amazon.com/images/I/71wF7YDIUqL._AC_SL1500_.jpg",
+        imagen: "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/16/5604024/1.jpg?2796",
         descripcion: "Tablet accesible con pantalla amplia para clases virtuales, videos y navegación web.",
         caracteristicas: ["Pantalla de 10.1 pulgadas", "Soporte para tarjeta microSD", "Android integrado"],
         ram: "4 GB", almacenamiento: "64 GB", pantalla: "IPS 10.1 pulgadas", bateria: "5000 mAh"
     },
     {
         id: 157, nombre: "Oukitel RT3 Pro", categoria: "tablets", precio: 9500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt3.jpg",
+        imagen: "https://oukitel.com/cdn/shop/files/RT3pro-black_1.webp?v=1736850680&width=1000",
         descripcion: "Tablet ultrarresistente de 8 pulgadas diseñada para trabajo de campo, caídas y agua.",
         caracteristicas: ["Certificación IP68 / IP69K", "Resistencia militar MIL-STD-810H", "Diseño compacto"],
         ram: "4 GB (expandible)", almacenamiento: "128 GB", pantalla: "IPS HD 8 pulgadas", bateria: "5150 mAh"
     },
     {
         id: 158, nombre: "Tablet Maxwest Astro", categoria: "tablets", precio: 4500,
-        imagen: "https://m.media-amazon.com/images/I/61x-7R6B6ML._AC_SL1200_.jpg",
+        imagen: "https://m.media-amazon.com/images/I/51lH6gf0QJL.jpg",
         descripcion: "Tablet económica de la serie Astro con buen rendimiento para streaming y aplicaciones básicas.",
         caracteristicas: ["Diseño delgado", "Procesador Quad-Core", "Altavoces integrados"],
         ram: "3 GB", almacenamiento: "32 GB", pantalla: "IPS HD 8 pulgadas", bateria: "4000 mAh"
     },
     {
         id: 159, nombre: "Oukitel OT5S", categoria: "tablets", precio: 13800,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-ot5.jpg",
+        imagen: "https://m.media-amazon.com/images/I/81PdHtzcZ-L._AC_UF1000,1000_QL80_.jpg",
         descripcion: "Tablet de gran formato con pantalla 2K de 12 pulgadas y memoria ampliable hasta 36 GB.",
         caracteristicas: ["Pantalla 2K con protección visual TÜV", "Cuatro altavoces estéreo", "Compatible con lápiz óptico"],
         ram: "12 GB (hasta 36 GB virtual)", almacenamiento: "256 GB", pantalla: "IPS 2K 12 pulgadas", bateria: "11000 mAh"
     },
     {
         id: 160, nombre: "Tablet Oukitel RT9", categoria: "tablets", precio: 16500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt9.jpg",
+        imagen: "https://oukitel.com/cdn/shop/files/11_6af95fb4-6fb7-4e84-8690-3c01f866d0dd.jpg?v=1754453221&width=1000",
         descripcion: "Tablet rugerizada de alto rendimiento con batería masiva de 11,000 mAh y resistencia extrema.",
         caracteristicas: ["Certificación IP68 / IP69K", "Carga rápida de 33W", "Correa de mano incluida"],
         ram: "6 GB (expandible)", almacenamiento: "256 GB", pantalla: "IPS FHD+ 10.1 pulgadas", bateria: "11000 mAh"
     },
     {
         id: 161, nombre: "Tablet Oukitel RT7", categoria: "tablets", precio: 22500,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt7-titan-5g.jpg",
+        imagen: "https://m.media-amazon.com/images/I/913568CK1mL._AC_UF1000,1000_QL80_.jpg",
         descripcion: "La tablet todo terreno con la batería más grande del mercado (32,000 mAh) para días de autonomía.",
         caracteristicas: ["Batería gigante de 32,000 mAh", "Carga inversa (funciona como PowerBank)", "Resistencia extrema"],
         ram: "12 GB", almacenamiento: "256 GB", pantalla: "IPS FHD+ 10.1 pulgadas", bateria: "32000 mAh"
     },
     {
         id: 162, nombre: "Tablet Oukitel RT3 Plus", categoria: "tablets", precio: 10200,
-        imagen: "https://fdn2.gsmarena.com/vv/bigpic/oukitel-rt3.jpg",
+        imagen: "https://oukitel.com/cdn/shop/files/13_3beb0900-c0a1-4f3f-b256-2f204c6b2a49.jpg?v=1755055543&width=1000",
         descripcion: "Versión mejorada de la serie compacta rugerizada RT3 con mayor fluidez y capacidad de batería.",
         caracteristicas: ["Resistente a golpes, polvo y agua", "Pantalla reforzada", "Ideal para uso industrial"],
         ram: "4 GB (expandible)", almacenamiento: "128 GB", pantalla: "IPS HD 8 pulgadas", bateria: "11000 mAh"
