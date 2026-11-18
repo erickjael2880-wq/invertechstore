@@ -1,7 +1,7 @@
 const productos = [
     // --- CELULARES ---
     {
-        id: 1, nombre: "iPhone Pro Max", categoria: "celulares", precio: 7999,
+        id: 1, nombre: "iPhone XS Pro Max", categoria: "celulares", precio: 7999,
         imagen: "https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021_inline.jpg.large.jpg",
         descripcion: "Smartphone para fotografía, comunicación y entretenimiento.",
         caracteristicas: ["Pantalla de alta resolución", "Cámara integrada", "Wi-Fi y Bluetooth"],
