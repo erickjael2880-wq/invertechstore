@@ -112,13 +112,6 @@ const productos = [
         caracteristicas: ["dependiendo la capacidad s rango de precio amenta "],
         ram: "4 GB", almacenamiento: " 128 GB", pantalla: " Mini pantalla táctil secundaria de 1,81 pulgadas (útil para ver la hora, notificaciones, estado de batería o controlar la música)", bateria: "5.150 mAh, pensada para ofrecer autonomía de un día completo"
     },
-    {
-        id:129 , nombre: "Oukitel C68", categoria: "celulares", precio: ,
-        imagen: "https://soytechno.com/wp-content/uploads/2026/08/Oukitel-C68-4G-8GB512GB-6000mAh-Grey-1.jpg",
-        descripcion: "un teléfono inteligente de gama de entrada con pantalla grande y gran batería",
-        caracteristicas: ["dependiendo la capacidad s rango de precio amenta"],
-        ram: "4GB", almacenamiento: " 128GB", pantalla: " IPS LCD de 7.2 pulgadas HD+", bateria: "6000 mAh con soporte de carga rápida de 18W"
-    },
     // --- LAPTOPS ---
     {
         id: 4, nombre: "Laptop DELL i7", categoria: "laptops", precio: 12000,
